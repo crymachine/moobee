@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17112376882",
+    "firebase_url": "https://moobee-1e864.firebaseio.com",
+    "project_id": "moobee-1e864",
+    "storage_bucket": "moobee-1e864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17112376882:android:7f17949728c8b5d6",
+        "android_client_info": {
+          "package_name": "it.moobee.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17112376882-jgbrmou0qrnaqo6jd3pgspo179fljcup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.moobee.app",
+            "certificate_hash": "8158F72C68BC576F42B47088607E840390BDC43A"
+          }
+        },
+        {
+          "client_id": "17112376882-cq2g6f3vaosbice3v10s60u7u08gders.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqaCu9L01zwTzqJgGKUeLp7hHL85A5xic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17112376882-cq2g6f3vaosbice3v10s60u7u08gders.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
