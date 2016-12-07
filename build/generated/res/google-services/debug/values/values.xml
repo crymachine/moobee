@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">17112376882-cq2g6f3vaosbice3v10s60u7u08gders.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://moobee-1e864.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">17112376882</string>
+    <string name="google_api_key" translatable="false">AIzaSyBqaCu9L01zwTzqJgGKUeLp7hHL85A5xic</string>
+    <string name="google_app_id" translatable="false">1:17112376882:android:7f17949728c8b5d6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBqaCu9L01zwTzqJgGKUeLp7hHL85A5xic</string>
+    <string name="google_storage_bucket" translatable="false">moobee-1e864.appspot.com</string>
+</resources>
